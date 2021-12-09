@@ -1,6 +1,37 @@
-### Hi there 👋
+<h1> Hey, welcome &nbsp <img width="40px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> <p> I'm Enzo Terra</p> </h1> 
 
-*(under development)*
+<img width="250px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif">
+
+<br>
+
+## 🧑 About Me
+- 🇧🇷 Brazilian
+- 💻 Android and Web Development
+- 🎓 Computing Technician course student - 6th semester - IFMS
+
+<br>
+
+## ⚙️ Languages and Tools
+
+<div display="flex" align="center">
+  <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="60px" src="https://github.com/enzoterra/enzoterra/blob/main/Icons/android.png"> &nbsp &nbsp &nbsp &nbsp
+  <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="60px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="60px" src="https://github.com/enzoterra/enzoterra/blob/main/Icons/gradle.png">
+</div>
+
+<br>
+<br>
+
+## 📈 Stats
+<div align="center" display="flex">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react">
+  <img width="50px">
+  <img width="483px" src="https://github-readme-stats.vercel.app/api?username=enzoterra&layout=compact&show_icons=true&theme=react&custom_title=Enzo Terra GitHub Stats&hide=issues">
+</div>
 
 <!--
 **enzoterra/enzoterra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
