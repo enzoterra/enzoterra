@@ -21,6 +21,7 @@
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> &nbsp &nbsp &nbsp &nbsp
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> &nbsp &nbsp &nbsp &nbsp
   <img width="50px" src="https://github.com/enzoterra/enzoterra/blob/main/Icons/gradle.png">
+  <img width="100px">
 </div>
 
 <br>
