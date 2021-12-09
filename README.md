@@ -28,9 +28,9 @@
 
 ## 📈 Stats
 <div align="center" display="flex">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react">
-  <img width="50px">
-  <img width="415px" src="https://github-readme-stats.vercel.app/api?username=enzoterra&layout=compact&show_icons=true&theme=react&custom_title=Enzo Terra GitHub Stats&hide=issues">
+  <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react">
+  <img width="30px">
+  <img width="438px" src="https://github-readme-stats.vercel.app/api?username=enzoterra&layout=compact&show_icons=true&theme=react&custom_title=Enzo Terra GitHub Stats&hide=issues">
 </div>
 
 <!--
