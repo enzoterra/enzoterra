@@ -5,7 +5,7 @@
 <br>
 
 ## 🧑 About Me
-- 🇧🇷 Brazilian
+- Brazilian
 - 💻 Android and Web Development
 - 🎓 Computing Technician course student - 6th semester - IFMS
 
