@@ -1,6 +1,6 @@
-<h1> Hey, welcome &nbsp <img width="40px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> <p> I'm Enzo Terra</p> </h1> 
+<h1> Hey, welcome &nbsp <img width="40" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> <p> I'm Enzo Terra</p> </h1> 
 
-<img width="250px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif">
+<img width="250" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif">
 
 <br>
 
