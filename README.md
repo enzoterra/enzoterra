@@ -11,7 +11,7 @@
 
 <br>
 
-## ⚙️ Languages and Tools
+## ⚙️ Languages and Tools most used
 
 <div display="flex" align="center">
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp &nbsp &nbsp &nbsp
