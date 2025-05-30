@@ -6,8 +6,8 @@
 
 ## 🧑 About Me
 - 🇧🇷 Brazilian
-- 💻 Android and Web Development
-- 🎓 Computing Technician course student - 6th semester - IFMS
+- 💻 Full-stack Development
+- 🎓 TI Technician
 
 <br>
 
@@ -20,8 +20,9 @@
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> &nbsp &nbsp &nbsp &nbsp
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"> &nbsp &nbsp &nbsp &nbsp
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> &nbsp &nbsp &nbsp &nbsp
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> &nbsp &nbsp &nbsp &nbsp
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> &nbsp &nbsp &nbsp &nbsp
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
 </div>
 
 <br>
@@ -29,9 +30,9 @@
 
 ## 📈 Stats
 <div align="center" display="flex">
-  <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react">
+  <img width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react&count_private=true">
   <img width="30px">
-  <img width="438px" src="https://github-readme-stats.vercel.app/api?username=enzoterra&layout=compact&show_icons=true&theme=react&custom_title=Enzo Terra GitHub Stats&hide=issues">
+  <img height="176px" src="https://github-readme-stats.vercel.app/api?username=enzoterra&count_private=true&show_icons=true&custom_title=Github%20Stats&hide=issues&theme=react"/>
 </div>
 
 <!--
