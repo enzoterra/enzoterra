@@ -28,40 +28,40 @@
 
 ### 💻 Frontend
 <p>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">&nbsp;&nbsp;
 </p>
 
 ### 🧠 Backend
 <p>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;&nbsp;
 </p>
 
 ### 📱 Mobile & Engines & Infra
 <p>
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">&nbsp;&nbsp;
 </p>
 
 ### 🎨 Tools & Databases
 <p>
-  <img width="50" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp;
+  <img width="50" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp;&nbsp;
 </p>
 
 ---
