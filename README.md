@@ -27,7 +27,7 @@
 ## ⚙️ Tech Stack
 
 ### 💻 Frontend
-<p align="center">
+<p>
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
@@ -37,7 +37,7 @@
 </p>
 
 ### 🧠 Backend
-<p align="center">
+<p>
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">&nbsp;
@@ -47,7 +47,7 @@
 </p>
 
 ### 📱 Mobile & Engines & Infra
-<p align="center">
+<p>
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">&nbsp;
@@ -56,7 +56,7 @@
 </p>
 
 ### 🎨 Tools & Databases
-<p align="center">
+<p>
   <img width="50" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
