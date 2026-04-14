@@ -43,39 +43,42 @@
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain.svg">&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">&nbsp;
 </p>
 
-### 📱 Mobile & Engines
+### 📱 Mobile & Engines & Infra
 <p align="center">
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">&nbsp;
 </p>
 
-### 🎨 Tools
+### 🎨 Tools & Databases
 <p align="center">
   <img width="50" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">&nbsp;
+  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">&nbsp;
   <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">&nbsp;
-  <img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">&nbsp;
 </p>
 
 ---
 
 ## 🧩 What I Work With
-- Fullstack applications
-- Backend architectures
-- Automation workflows
-- Docker & CI/CD pipelines
+- Fullstack applications (scalable and production-ready)
+- Backend architectures (REST, GraphQL, modular systems)
+- AI-driven systems (custom logic, automation, and integrations)
+- Automation workflows (n8n, data pipelines, process optimization)
+- Docker, CI/CD and containerized environments
 
 ---
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react&count_private=true">
-  <img height="176" src="https://github-readme-stats.vercel.app/api?username=enzoterra&count_private=true&show_icons=true&theme=react">
+  <img width="362.5" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enzoterra&layout=compact&theme=react">&nbsp;
+  <img height="176" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzoterra&show_icons=true&theme=react">
 </p>
 
 <p align="center">
@@ -95,3 +98,4 @@
 ## 📫 Contact
 - 💼 LinkedIn: [(enzo-terra)](https://www.linkedin.com/in/enzo-terra/)
 - 📧 Email: enzoterra18@gmail.com
+<br />
